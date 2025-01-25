@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="flex space-x-4">
         {/* GitHub Icon */}
         <a
-          href="https://github.com/your-profile"
+          href="https://github.com/zorovivek"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-gray-400 transition-colors"
@@ -17,7 +17,7 @@ export default function Footer() {
         </a>
         {/* Instagram Icon */}
         <a
-          href="https://instagram.com/your-profile"
+          href="https://instagram.com/vivekcdhry"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-gray-400 transition-colors"
